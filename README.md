@@ -2,6 +2,8 @@
 <img width="80%" height = "150px" src="https://en.bloggif.com/tmp/dc481f921c4ee4ebb4ecaf1e94759b71/text.gif?1650442363" alt="cover" />
 </div>
 
+<h1> Hello Im Gerald Glen!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+
 <!--
 **gjayz099/gjayz099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
