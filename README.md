@@ -1,5 +1,5 @@
 <div align="center">
-<img width="80%" height = "150px" src="https://en.bloggif.com/tmp/dc481f921c4ee4ebb4ecaf1e94759b71/text.gif?1650442363" alt="cover" />
+<img width="80%" height = "200px" src="https://scontent.fdvo5-1.fna.fbcdn.net/v/t1.6435-9/123800077_3893635983990513_203420345560703315_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=19026a&_nc_ohc=9TD9lkhvZekAX_zwGYx&_nc_ht=scontent.fdvo5-1.fna&oh=00_AT_6NRwRYLGVV2hShGAZyaDozXi6v66ndJp1ksLoakJqWg&oe=6284E7E2" alt="cover" />
 </div>
 
 <h1> Hello Im Gerald Glen!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
