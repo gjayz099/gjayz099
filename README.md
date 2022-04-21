@@ -57,7 +57,7 @@ I'm  Geraldglen 3rd college, a part time freelance web developer💻
 </div>
 
 
-<div></div>
+<h2></h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjayz099&theme=dark&show_icons=true)
 <!--
 
