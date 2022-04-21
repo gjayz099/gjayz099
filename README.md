@@ -56,6 +56,8 @@ I'm  Geraldglen 3rd college, a part time freelance web developer💻
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
+
+<div></div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjayz099&theme=dark&show_icons=true)
 <!--
 
