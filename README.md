@@ -6,7 +6,7 @@
 
 I'm  Geraldglen 3rd college, a part time freelance web developer💻
 
-- 🔭 I’m currently working in Freelance Parttime
+- 🔭 I’m currently working in Freelance Part time
 - 🌱 I’m currently learning crud js and C#
 - 😄 I,m Hobby Play Computer Games ...
 
