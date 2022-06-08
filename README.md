@@ -12,7 +12,7 @@ I'm  Geraldglen 3rd college, a part time freelance web developer💻
 
 <p align='left'>
 
-<img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=50px>
+<img  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=5px>
 </p>
 <h2> Personal Profile:</h2>
 <div size='20px'>Extremely motivated to continue to develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for memorable IT Jobs and the Programming Industry. 
