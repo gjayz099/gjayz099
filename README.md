@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "200px" src="https://scontent.fdvo5-1.fna.fbcdn.net/v/t31.18172-8/23845596_1847807541906711_5606636662922410325_o.jpg?stp=dst-jpg_p600x600&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF1oUwuzonSAD40t0lsyPMjc2-ojJBRxjBzb6iMkFHGMGvz966DJiYqyQ-diabgy_Jx-J-xN-CIEY0Rl_7Cy1Hp&_nc_ohc=Ij8mTwqx8wQAX_dvMgs&tn=gkzkV54oP0XY0mpz&_nc_ht=scontent.fdvo5-1.fna&oh=00_AT8XLjVzUX9OWkR_o7i94lIcHU0uIP9HbJzx52j7BEpk2Q&oe=62FFD8BE" alt="cover" />
+<img width="100%" height = "200px" src="https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-737x366.png" alt="cover" />
 </div>
 
 <h1> Hello Im Gerald Glen!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=60px height=60px> </h1>
