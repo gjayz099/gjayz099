@@ -7,7 +7,7 @@
 I'm  Geraldglen 3rd college, a part time freelance web developer💻
 
 - 🔭 I’m currently working in Freelance Part time
-- 🌱 I’m currently learning crud js and C# Asp .net 6
+- 🌱 I’m currently learning crud js and C# Unity Game
 - 😄 I,m Hobby Play Computer Games ...
 
 <h2> Personal Profile: <img  src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=100px height=100px></h2>
