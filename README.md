@@ -35,7 +35,7 @@ I'm  Geraldglen 3rd college, a part time freelance web developer💻
 </div>
 
 
-<h2> Skills<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=40px height=40px></h2>
+<h2> Skills<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px height=30px></h2>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -54,7 +54,7 @@ I'm  Geraldglen 3rd college, a part time freelance web developer💻
 </div>
 
 
-<h2> Most Use Programming<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=40px height=40px></h2>
+<h2> Most Use Programming<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px height=30px></h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gjayz099&theme=dark&show_icons=true)
 <!--
