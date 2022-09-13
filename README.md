@@ -15,7 +15,7 @@ I'm  Geraldglen 3rd college, a part time freelance web developer💻
 <div size='20px'>Extremely motivated to continue to develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for memorable IT Jobs and the Programming Industry. 
 </div>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=40px height=40px"></h2>
+<h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=40px height=40px"></h2>
 <div align="left">
 <a href="https://github.com/gjayz099" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -35,7 +35,7 @@ I'm  Geraldglen 3rd college, a part time freelance web developer💻
 </div>
 
 
-<h2> Skills<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=15px height=15px></h2>
+<h2> Skills  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=15px height=15px></h2>
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
