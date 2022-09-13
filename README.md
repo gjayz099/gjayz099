@@ -2,7 +2,7 @@
 <img width="100%" height = "200px" src="https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-737x366.png" alt="cover" />
 </div>
 
-<h1> Hello Im Gerald Glen!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=60px height=60px> </h1>
+<h1> Hello Im Gerald Glen!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px height=30px> </h1>
 
 I'm  Geraldglen 3rd college, a part time freelance web developer💻
 
