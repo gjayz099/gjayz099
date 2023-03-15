@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "200px" src="https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-737x366.png" alt="cover" />
+<img width="100%" height = "200px" src="https://scontent.fdvo5-1.fna.fbcdn.net/v/t1.6435-9/120739533_785949515550660_8312183665269487160_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHZS-M_4oPgwP_0foStcC-rW5LkDohIAIxbkuQOiEgAjAQVBtUa00s4lfCSPvdZPoiITGo_v89bux6XJQnfNSrF&_nc_ohc=PMlUaPZjGoQAX9YcWqR&_nc_ht=scontent.fdvo5-1.fna&oh=00_AfAFmEWFs5-q5rwIQIRNMtvoO133f4aOAuCbBZbnuOHnfw&oe=64390E17" alt="cover" />
 </div>
 
 <h1> Hello Im Gerald Glen!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px height=30px> </h1>
@@ -7,7 +7,7 @@
 I'm  Geraldglen 3rd college, a part time freelance web developer💻
 
 - 🔭 I’m currently working in Freelance Part time
-- 🌱 I’m currently learning crud js and C# Unity Game
+- 🌱 I’m currently learning crud js and Lua QbCore
 - 😄 I,m Hobby Play Computer Games ...
 
 <h2> Personal Profile: <img  src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=50px height=50px></h2>
