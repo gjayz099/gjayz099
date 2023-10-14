@@ -4,11 +4,11 @@
 
 <h1> Hello Im Gerald Glen!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px height=30px> </h1>
 
-I'm  Geraldglen 3rd college, a part time freelance web developer💻
+I'm  Geraldglen 4th college, a part time freelance web developer💻
 
 - 🔭 I’m currently working in Freelance Part time
-- 🌱 I’m currently learning crud js and Lua QbCore
-- 😄 I,m Hobby Play Computer Games ...
+- 🌱 I’m currently learning API
+- 😄 I,m Hobby Play Computer Games and coding ...
 
 <h2> Personal Profile: <img  src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=50px height=50px></h2>
 
