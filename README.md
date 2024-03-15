@@ -4,7 +4,7 @@
 
 <h1> Hello Im Gerald Glen!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px height=30px> </h1>
 
-I'm  Gerald Glen Dangcalan IT Student, a part time freelance web developer💻
+I'm  Gerald Glen Dangcalan BS Information Technology, a part time freelance web developer💻
 
 - 🔭 I’m currently working in Freelance Part time
 - 🌱 I’m currently learning API
