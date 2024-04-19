@@ -7,10 +7,10 @@
 I'm  Gerald Glen Dangcalan BS Information Technology, a part time freelance web developer💻
 
 
-- 👨‍💻 I'm Fullstack Developer
+- 👨‍💻 I'm .Net Fullstack Developer
 - 🔭 I’m working in Freelance Part time
 - 🌱 I’m expretise Develop and Integration API
-- 👀 I'm Current Learn Graphql
+- 👀 I'm Current Learn CI/CD Pipeline
 - 😄 My Hobby Play Computer Games and coding ...
 
 <h2> Personal Profile: <img  src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width=50px height=50px></h2>
