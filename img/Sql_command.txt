@@ -1,0 +1,28 @@
+CREATE TABLE tblEmployee (
+    EmployeeId int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+    Name varchar(50) NULL,
+    City varchar(50) NULL,
+    Department varchar(20) NULL,
+    Gender varchar(6) NULL,
+    UpdatedAt datetime NULL,
+    DeletedAt datetime NULL
+);
+
+
+--//// one to one
+CREATE TABLE tblEmployeeContact (
+    EmployeeId int PRIMARY KEY,
+    Email varchar(100),
+    Phone varchar(20),
+    FOREIGN KEY (EmployeeId) REFERENCES tblEmployee(EmployeeId)
+);
+
+
+--//// one to many
+CREATE TABLE tblTasks (
+    TaskId int IDENTITY(1,1) PRIMARY KEY,
+    EmployeeId int,
+    TaskDescription varchar(255),
+    TaskStatus varchar(20),
+    FOREIGN KEY (EmployeeId) REFERENCES tblEmployee(EmployeeId)
+);
