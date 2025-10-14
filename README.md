@@ -8,7 +8,7 @@ I'm  Gerald Glen Dangcalan BS Information Technology, a part time freelance web 
 
 
 - 👨‍💻 I'm .Net Fullstack Developer
-- 🔭 I’m working in Junior .Net Dev Freelance Part time
+- 🔭 I’m working in Exprite Web APi .Net Dev Freelance Part time
 - 🌱 I’m expretise Develop and Integration API
 - 👀 I'm Current Learn CI/CD Pipeline
 - 😄 My Hobby Play Computer Games and coding ...
